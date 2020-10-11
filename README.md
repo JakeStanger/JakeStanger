@@ -1,4 +1,4 @@
-<p align="center">
+<h3 align="center">
 Web developer & Linux nerd
 </p>
 
