@@ -1,5 +1,5 @@
 <h3 align="center">
-Web Developer & Linux Nerd
+Full-Stack Developer & Linux Nerd
 </p>
 
 <p align="center">
